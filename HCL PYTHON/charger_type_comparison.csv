@@ -1,0 +1,4 @@
+Charger_Type,Sessions,Avg_Duration_Mins,Avg_Energy_kWh
+Level 1,214,252.15,10.26
+Level 2,394,135.78,12.31
+DC Fast,392,41.88,25.1
